@@ -51,9 +51,11 @@ Configure Linters in main Branch.
 
 ### Pre-requisites
 Create Three Files inside src folder that must be inside repo folder;
-1.index.html
-2.style.css
-3.index.js
+<ol>
+<li>index.html</li>
+<li>style.css</li>
+<li>index.js</li>
+</ol>
 
 ### Step 2 (Create WebPack File)
 Create an webpack.config.js file inside repo folder.
