@@ -33,12 +33,12 @@ For more information on the importance of a professional README for your reposit
 </div>
 
 
-## 💻 Getting Started <a name="getting-started"></a>
+### Pre-requisites
 
 Configure Linters in main Branch.
 <a href="https://github.com/MasumaJaffery/linters-config/tree/master/html-css-js">Linters</a>
 
-### Pre-requisites
+### Step 1 (Files):
 Create Three Files inside src folder that must be inside repo folder;
 <ol>
 <li>index.html</li>
