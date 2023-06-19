@@ -32,17 +32,6 @@ For more information on the importance of a professional README for your reposit
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-- [👥 Authors](#authors)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
