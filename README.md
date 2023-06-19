@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
 For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
 -->
 
-  <h3><b>WebPack</b></h3>
+  <h1><b>WebPack Configurations</b></h1>
 
 </div>
 
