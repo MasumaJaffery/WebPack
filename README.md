@@ -28,11 +28,6 @@ After you're finished please remove all the comments and instructions!
 For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>WebPack</b></h3>
 
 </div>
@@ -49,21 +44,12 @@ For more information on the importance of a professional README for your reposit
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [WebPack] <a name="about-project"></a>
-
-**[WebPack]** is a...
-
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Configure Linters!
+Configure Linters in main Branch.
 <a href="https://github.com/MasumaJaffery/linters-config/tree/master/html-css-js">Linters</a>
 
-### Prerequisites
+### Pre-requisites
 Create Three Files inside src folder that must be inside repo folder;
 1.index.html
 2.style.css
