@@ -35,9 +35,9 @@ For more information on the importance of a professional README for your reposit
 
 ### Pre-requisites
 
-Configure Linters in main Branch.
-<a href="https://github.com/MasumaJaffery/linters-config/tree/master/html-css-js">Linters</a>
-
+Configure <a href="https://github.com/MasumaJaffery/linters-config/tree/master/html-css-js">Linters</a>
+ in main Branch.
+ 
 ### Step 1 (Files):
 Create Three Files inside src folder that must be inside repo folder;
 <ol>
