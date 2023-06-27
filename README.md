@@ -105,9 +105,9 @@ npm install --save-dev webpack-dev-server
 ### Step 8 (Make Changes in package.json file):
 Update scripts part of package.json with these lines!
 ```sh
-`"test": "echo \"Error: no test specified\" && exit 1",
+"test": "echo \"Error: no test specified\" && exit 1",
 "start": "webpack serve --open",
-"build": "webpack"``sh
+"build": "webpack"
 ```
 ### Step 9 (Run Following Command to Generate .dist/ folder):
 ```sh
